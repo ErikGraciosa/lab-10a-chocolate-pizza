@@ -66,6 +66,14 @@ footer {
     box-shadow: var(--shadow);
 }
 
+ul {
+	list-style: none;
+}
+
+#recipe {
+    background-image: url("/assets/list-bg.png");
+    background-repeat: no-repeat;
+}
 
 h2 {
     font-size: 1.8rem;
